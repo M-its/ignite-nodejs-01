@@ -1,0 +1,17 @@
+{
+    "name": "ignite-nodejs-01",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node --watch src/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "csv": "^6.3.11",
+        "csv-parse": "^5.6.0"
+    }
+}

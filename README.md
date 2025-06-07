@@ -12,7 +12,6 @@ A simple Node.js application that demonstrates basic of CRUD operations ans stre
 ### Installation
 
 1. Clone the repository:
-```
 
 ```bash
 git clone <https://github.com/M-its/ignite-nodejs-01>
